@@ -27,7 +27,7 @@ This portfolio highlights:
 
 ## 📢 Live Demo
 
-Check out the live version of my portfolio here: [My Portfolio](https://yourwebsite.com)
+Check out the live version of my portfolio here: [My Portfolio](https://craftedbysutharsan.netlify.app/)
 
 ## 🙌 Connect with Me
 
